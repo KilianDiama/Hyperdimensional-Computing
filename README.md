@@ -1,17 +1,17 @@
 UltraLogicalHDC 🚀
 
-UltraLogicalHDC est un moteur de Hyperdimensional Computing (HDC) pour le raisonnement symbolique et le slot-filling. Il permet de représenter, lier et récupérer des concepts sous forme de vecteurs hyperdimensionnels bipolaires avec une grande résilience au bruit.
+UltraLogicalHDC is a Hyperdimensional Computing (HDC) engine for symbolic reasoning and slot-filling. It represents, binds, and retrieves concepts as high-dimensional bipolar vectors, with strong robustness to noise.
 
-⚡ Fonctionnalités principales
+⚡ Key Features
 
-Génération automatique de vecteurs de concepts bipolaires.
+Automatic generation of bipolar concept vectors.
 
-Binding (liaison) pour créer des relations entre concepts.
+Binding to create relationships between concepts.
 
-Bundling (superposition) pour encoder des ensembles de faits ou contextes.
+Bundling to encode sets of facts or contexts.
 
-Recherche vectorisée via cleanup, robuste même avec des vecteurs corrompus.
+Vectorized cleanup for fast retrieval, robust even with corrupted vectors.
 
-Compatible CPU et GPU grâce à PyTorch.
+CPU and GPU compatible using PyTorch.
 
-Testé pour la récupération de rôles dans des graphes de connaissances simples.
+Tested for role retrieval in simple knowledge graphs.
